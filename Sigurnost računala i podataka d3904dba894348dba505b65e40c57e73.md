@@ -64,4 +64,4 @@ def test_png(header):
 - u terminalu pozovemo `brute_force(ciphertext)`
 - na kraju, dobivamo dešifriranu poruku, tj. u našem slučaju sliku, koja izgleda ovako:
 
-![image.png](Sigurnost%20rac%CC%8Cunala%20i%20podataka%20d3904dba894348dba505b65e40c57e73/image.png)
+//slika posebno stavljena u repozitorij
